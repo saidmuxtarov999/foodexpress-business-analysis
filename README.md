@@ -1,2 +1,7 @@
-# foodexpress-business-analysis
-Business Analysis documentation and project management for the FoodExpress delivery platform.
+# FoodExpress Business Analysis
+
+Business Analysis documentation for the FoodExpress food delivery platform.
+
+## Project Status
+
+🚧 In Progress
