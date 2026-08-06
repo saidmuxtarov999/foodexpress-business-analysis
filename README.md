@@ -1,7 +1,13 @@
-# FoodExpress Business Analysis
+# 🍔 FoodExpress Business Analysis
 
 Business Analysis documentation for the FoodExpress food delivery platform.
 
-## Project Status
+## 📌 Project Overview
 
-🚧 In Progress
+FoodExpress is a food delivery platform that connects customers, restaurants, couriers and administrators through a single system.
+
+This repository contains the complete Business Analysis documentation prepared for the project.
+
+## 🚧 Status
+
+Initial repository setup is in progress.
