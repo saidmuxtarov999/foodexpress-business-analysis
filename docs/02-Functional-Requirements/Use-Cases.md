@@ -4,7 +4,7 @@
 
 The following diagram represents the interactions between the actors and the FoodExpress system.
 
-![Use Case Diagram](images/use-case-diagram.png)
+![Use Case Diagram](../03-Process-Models/images/Use Case Diagram)
 
 ---
 
