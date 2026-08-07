@@ -98,3 +98,8 @@ axios.request(options)
     console.error('Qeydiyyat başlanğıcında xəta:', error.response ? error.response.data : error.message);
   });
 ```
+
+
+## Developer Notes
+
+Authentication endpoints have been implemented according to the business requirements.
