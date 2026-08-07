@@ -4,7 +4,7 @@
 
 The following Activity Diagram represents the workflow of the FoodExpress system.
 
-![Activity Diagram](images/Activity Diagram)
+![Activity Diagram](images/Activity-Diagram.png)
 
 ## Description
 
