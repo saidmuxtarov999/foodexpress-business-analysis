@@ -4,7 +4,7 @@
 
 The following BPMN diagram illustrates the end-to-end order process in the FoodExpress platform.
 
-![BPMN Diagram](images/BPMN)
+![BPMN Diagram](images/BPMN.png)
 
 ## Description
 
