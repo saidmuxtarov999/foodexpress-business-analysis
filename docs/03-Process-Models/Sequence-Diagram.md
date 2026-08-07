@@ -4,7 +4,7 @@
 
 The following Sequence Diagram illustrates the communication between system components during the order process.
 
-![Sequence Diagram](images/Sequence Diagram)
+![Sequence Diagram](images/Sequence-Diagram.png)
 
 ## Description
 
